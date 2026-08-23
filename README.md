@@ -23,6 +23,9 @@ I enjoy designing practical systems, clean APIs, and tools that solve real probl
 **envgraph** — a CLI tool for analyzing environment variables and their usage across JavaScript/TypeScript projects.
 
 ## Projects
+<p align="center">
+  <img src="images/projects.svg" width="100%" alt="projects image" >
+</p>
 
 **envgraph** — Environment variable usage analyzer for JavaScript/TypeScript.
 
