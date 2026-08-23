@@ -38,10 +38,15 @@ I enjoy designing practical systems, clean APIs, and tools that solve real probl
 ## Tech
 
 **Backend:** Node.js, Express, Django, Flask
+
 **Frontend:** React, Vue, Nuxt
+
 **Mobile:** React Native, Swift
+
 **Database:** PostgreSQL, SQL
+
 **Other:** TypeScript, REST API, Git, Linux, AST tooling
+
 
 Oh, and yeah. I also develop on Minecraft — mainly Fabric and NeoForge.
 
